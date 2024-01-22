@@ -32,7 +32,7 @@ The "Excel to JSON Converter" is a Python-based tool that simplifies the process
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/excel-to-json-converter.git
+    https://github.com/Imadnajam/Excel-to-JSON-Converter-.git
     ```
 
 2. Install dependencies:
